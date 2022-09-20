@@ -1,4 +1,4 @@
-# Photon Charge ALPHA TEST-How To Set Up
+# Photon Charge BETA TEST-How To Set Up
 
 ```
 Make Sure You Have Photon Pun installed and the CORRECT AppID in the server settings .
